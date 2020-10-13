@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-09-25
 inline: true
 ---
 
-A simple inline announcement.
+We are proud to annouce that our  <a href="https://hal.archives-ouvertes.fr/hal-02954181"> paper </a> was accepted to NeurIPS 2020! :smile:
