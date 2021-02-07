@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: All my publications as first author.
-years: [2018, 2019, 2020, ]
+description: (All my publications as first author)
+years: [2020, 2019, 2018]
 nav: true
 order: 2
 ---

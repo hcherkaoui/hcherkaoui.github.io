@@ -17,8 +17,8 @@ social: true  # includes social icons at the bottom of the page
 order: 1
 ---
 
-I am a Ph.D. student at Commissariat à l'Energie Atomique (CEA), working with <a href="https://sites.google.com/site/philippeciuciu">Dr Philippe Ciuciu</a>, <a href="https://www.researchgate.net/profile/Claire_Leroy">Dr Claire Leroy</a> and <a href="https://tommoral.github.io">Dr Thomas Moreau</a>.
+I am a Ph.D. student in the <a href="https://team.inria.fr/parietal/">Parietal team</a> at Commissariat à l'Energie Atomique (CEA), working under the supervision of <a href="https://sites.google.com/site/philippeciuciu">Dr Philippe Ciuciu</a>, <a href="https://www.researchgate.net/profile/Claire_Leroy">Dr Claire Leroy</a> and <a href="https://tommoral.github.io">Dr Thomas Moreau</a>.
 
-My research interest are the estimation of the Haemodynamic Response Function (HRF) in fMRI data, convex optimisation for the sake of promoting sparsity in various domain and MRI image reconstruction.
+My research interests are the estimation of the Haemodynamic Response Function (HRF) from fMRI data, convex optimisation for the sake of promoting sparsity in various domain and MRI image reconstruction.
 
-Take a look at my bibliography for more details!
+Take a look at my publications for more details!
