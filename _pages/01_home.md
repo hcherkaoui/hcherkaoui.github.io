@@ -21,4 +21,6 @@ I am a Ph.D. student in the <a href="https://team.inria.fr/parietal/">Parietal t
 
 My research interests are the estimation of the Haemodynamic Response Function (HRF) from fMRI data, convex optimisation for the sake of promoting sparsity in various domain and MRI image reconstruction.
 
+My PhD these is: "Efficient whole brain estimation of the haemodynamic response function for TV-regularized semi-blind deconvolution of neural activity in fMRI".
+
 Take a look at my publications for more details!
