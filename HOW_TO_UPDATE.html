@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Hamza  Cherkaoui | My personal website</title>
+<title>Hamza  Cherkaoui</title>
 <meta name="description" content="My personal website where you can find my publications, my softwares, my presentations and some news.
 ">
 
@@ -29,7 +29,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/HOW_TO_UPDATE.html">
 
 <!-- Theming-->
 
@@ -136,18 +136,23 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title"></h1>
+    <p class="post-description"></p>
+  </header>
 
+  <article>
+    <p>How to update and upload the website:</p>
 
-  <ul class="post-list">
-    
-  </ul>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git checkout <span class="nb">source</span>
+<span class="c"># modify the different pages at _pages/</span>
+<span class="nv">$ </span>git add <span class="nt">--all</span>
+<span class="nv">$ </span>git commit <span class="nt">-m</span><span class="s2">"ENH my update"</span>
+<span class="nv">$ </span>git push <span class="nt">-f</span>
+<span class="nv">$ </span>./bin/deploy <span class="nt">--user</span>
+</code></pre></div></div>
 
-  
-
+  </article>
 
 </div>
 
