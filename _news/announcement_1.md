@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-09-25
+date: 2021-07-20
 inline: true
 ---
 
-We are proud to annouce that our  <a href="https://hal.archives-ouvertes.fr/hal-02954181v2"> paper </a> was accepted to NeurIPS 2020! :smile:
+Our <a href="https://hal.archives-ouvertes.fr/hal-03005584">submission</a> to NeuroImage was accepted!

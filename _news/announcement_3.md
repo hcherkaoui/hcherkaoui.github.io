@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-12-11
+date: 2020-09-25
 inline: true
 ---
 
-Congratulation to <a href="https://scholar.google.fr/citations?user=4WhIFSQAAAAJ">Jérôme-Alexis Chevalier</a> for his superbe Ph.D. defense!
+We are proud to annouce that our  <a href="https://hal.archives-ouvertes.fr/hal-02954181v2"> paper </a> was accepted to NeurIPS 2020! :smile:
