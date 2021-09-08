@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>BioMaps</p>
-    <p>Service Hospitalier Drédéric Joliot</p>
+    <p>Service Hospitalier Frédéric Joliot</p>
     <p>Orsay, France</p>
 
 news: true  # includes a list of news items
@@ -26,4 +26,4 @@ My research interests are the estimation of the HRF from fMRI data, convex optim
 
 My PhD these was: "Efficient whole brain estimation of the haemodynamic response function for TV-regularized semi-blind deconvolution of neural activity in fMRI".
 
-Take a look at my publications for more details!
+Take a look at my <a href="{{ 'CV_Hamza_Cherkaoui.pdf' | prepend: '/assets/pdf/' | relative_url }}" target="_blank">Curriculum vitae</a> and my publications for more details!
