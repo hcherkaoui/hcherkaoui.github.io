@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 order: 1
 ---
 
-I'm a vacancy research engineer at <a href="http://www.biomaps.universite-paris-saclay.fr/">BioMaps</a>. I'm currently continuing my research on the estimation of the Haemodynamic Response Function (HRF) from functional Magnetic Resonance Imaging (fMRI) data in a pharmacological context.
+I'm a vacancy research engineer at <a href="http://www.biomaps.universite-paris-saclay.fr/">BioMaps</a>. I'm currently continuing my research on the estimation of the Haemodynamic Response Function (HRF) from functional Magnetic Resonance Imaging (fMRI) data in a <a href="https://joliot.cea.fr/drf/joliot/Pages/Actualites/Scientifiques/2021/TEP-neuropharmacologie-buprenorphine.aspx">pharmacological context</a>.
 
 I am a former Ph.D. student in the <a href="https://team.inria.fr/parietal/">Parietal team</a> at Commissariat à l'Energie Atomique (CEA), done under the supervision of <a href="https://sites.google.com/site/philippeciuciu">Dr Philippe Ciuciu</a>, <a href="https://www.researchgate.net/profile/Claire_Leroy">Dr Claire Leroy</a> and <a href="https://tommoral.github.io">Dr Thomas Moreau</a>.
 
