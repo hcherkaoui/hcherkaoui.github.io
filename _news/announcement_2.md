@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-03-03
+date: 2023-02-14
 inline: true
 ---
 
-I'm happily joining Noah’s Ark Paris Huawei Technologies and will be working with Dr Igor Colin and Dr Merwan Barlier!
+I'm happy to join Noah’s Ark Paris Huawei Technologies! I will be working with Dr Igor Colin and Dr Merwan Barlier.

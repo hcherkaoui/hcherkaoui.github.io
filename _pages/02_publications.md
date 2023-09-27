@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: (All my publications as first author)
+description: All my publications can be found in my <a href="https://scholar.google.com/citations?user=sLFcrAUAAAAJ">Google Scholar</a>.
 years: [2023, 2021, 2020, 2019, 2018]
 nav: true
 order: 2

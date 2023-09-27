@@ -17,9 +17,9 @@ social: true  # includes social icons at the bottom of the page
 order: 1
 ---
 
-I'm a post-doc at Noah’s Ark Paris Huawei Technologies currently focusing on multi-agents linear bandits with <a href="https://igorcolin.github.io">Dr Igor Colin</a> and <a href="https://scholar.google.com/citations?user=LTA3ETQAAAAJ">Dr Merwan Barlier</a>.
+I'm a postdoctoral researcher at Noah’s Ark Paris Huawei Technologies currently focusing on multi-agents linear bandits with <a href="https://igorcolin.github.io">Dr Igor Colin</a> and <a href="https://scholar.google.com/citations?user=LTA3ETQAAAAJ">Dr Merwan Barlier</a>.
 
-My research interests are bandits, Bayesian optimization, convex opptimization, deep learning and dictionary learning.
+My research interests are bandits, Bayesian optimization, convex optimization, deep learning and dictionary learning.
 
 I am a former Ph.D. student from the <a href="https://team.inria.fr/parietal/">Parietal team</a> at Commissariat à l'Energie Atomique (CEA), done under the supervision of <a href="https://sites.google.com/site/philippeciuciu">Dr Philippe Ciuciu</a>, <a href="https://www.researchgate.net/profile/Claire_Leroy">Dr Claire Leroy</a> and <a href="https://tommoral.github.io">Dr Thomas Moreau</a>.
 
