@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-07-20
+date: 2023-09-15
 inline: true
 ---
 
-Our <a href="https://hal.archives-ouvertes.fr/hal-03005584">submission</a> to NeuroImage was accepted!
+Our latest paper can be found <a href="https://arxiv.org/pdf/2309.08710.pdf">here</a>!
