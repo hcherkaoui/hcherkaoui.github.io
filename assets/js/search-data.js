@@ -40,18 +40,32 @@ ninja.data = [{
             },{id: "news-i-m-happy-to-join-noah-s-ark-paris-huawei-technologies-i-will-be-working-with-dr-igor-colin-and-dr-merwan-barlier",
           title: 'I’m happy to join Noah’s Ark Paris Huawei Technologies! I will be working...',
           description: "",
-          section: "News",},{id: "news-our-icml-2025-paper-was-accepeted-adaptive-sample-sharing-for-multi-agent-linear-bandits",
-          title: 'Our ICML 2025 paper was accepeted: Adaptive Sample Sharing for Multi Agent Linear...',
+          section: "News",},{id: "news-our-icml-2025-paper-was-accepted-adaptive-sample-sharing-for-multi-agent-linear-bandits",
+          title: 'Our ICML 2025 paper was accepted: Adaptive Sample Sharing for Multi Agent Linear...',
           description: "",
-          section: "News",},{id: "news-i-m-happy-to-join-héléne-halconruy-at-télécom-sudparis",
-          title: 'I’m happy to join Héléne Halconruy at Télécom SudParis!',
+          section: "News",},{id: "news-i-m-happy-to-join-prof-hélène-halconruy-at-télécom-sudparis",
+          title: 'I’m happy to join Prof. Hélène Halconruy at Télécom SudParis!',
           description: "",
           section: "News",},{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("hamzacherkaoui.bsky.social", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%68%61%6D%7A%61.%63%68%65%72%6B%61%6F@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/hcherkaoui", "_blank");
         },
       },{
         id: 'social-inspire',
@@ -61,25 +75,18 @@ ninja.data = [{
           window.open("https://inspirehep.net/authors/1010907", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("./feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/hamza-cherkaoui-922018ab", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=sLFcrAUAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
