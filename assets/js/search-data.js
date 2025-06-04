@@ -51,14 +51,14 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("hamzacherkaoui.bsky.social", "_blank");
+          window.open("hamzacherkaoui", "_blank");
         },
       },{
-        id: 'social-email',
-        title: 'email',
+        id: 'social-dblp',
+        title: 'DBLP',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%68%61%6D%7A%61.%63%68%65%72%6B%61%6F@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("243/6498", "_blank");
         },
       },{
         id: 'social-github',
@@ -68,18 +68,25 @@ ninja.data = [{
           window.open("https://github.com/hcherkaoui", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/hamza-cherkaoui-922018ab", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-3745-4140", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Hamza-Cherkaoui/", "_blank");
         },
       },{
         id: 'social-scholar',
