@@ -46,19 +46,22 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-happy-to-join-prof-hélène-halconruy-at-télécom-sudparis",
           title: 'I’m happy to join Prof. Hélène Halconruy at Télécom SudParis!',
           description: "",
+          section: "News",},{id: "news-excited-to-be-in-vancouver-to-present-our-work-adaptive-sample-sharing-for-multi-agent-linear-bandits-at-icml-️",
+          title: 'Excited to be in Vancouver to present our work: Adaptive Sample Sharing for...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("hamzacherkaoui", "_blank");
+          window.open("https://bsky.app/profile/hamzacherkaoui.bsky.social", "_blank");
         },
       },{
         id: 'social-dblp',
         title: 'DBLP',
         section: 'Socials',
         handler: () => {
-          window.open("243/6498", "_blank");
+          window.open("https://dblp.org/pid/243/6498", "_blank");
         },
       },{
         id: 'social-github',
