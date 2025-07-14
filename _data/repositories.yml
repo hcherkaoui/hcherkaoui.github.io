@@ -1,10 +1,8 @@
 github_users:
   - hcherkaoui
-  - hemolearn
 
 repo_description_lines_max: 2
 
 github_repos:
   - hcherkaoui/bandpy
   - hcherkaoui/carpet
-  - hemolearn/hemolearn
