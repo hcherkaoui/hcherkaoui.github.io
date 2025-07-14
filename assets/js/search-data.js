@@ -30,14 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "news-i-m-happy-to-join-noah-s-ark-paris-huawei-technologies-i-will-be-working-with-dr-igor-colin-and-dr-merwan-barlier",
+        },{id: "news-i-m-happy-to-join-noah-s-ark-paris-huawei-technologies-i-will-be-working-with-dr-igor-colin-and-dr-merwan-barlier",
           title: 'I’m happy to join Noah’s Ark Paris Huawei Technologies! I will be working...',
           description: "",
           section: "News",},{id: "news-our-icml-2025-paper-was-accepted-adaptive-sample-sharing-for-multi-agent-linear-bandits",
