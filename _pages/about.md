@@ -27,4 +27,4 @@ My research interests include bandits, Diffusion models, Markov chains, LLMs and
 
 Previously, I worked at Noah’s Ark Lab, Huawei Technologies in Paris, with <a href="https://igorcolin.github.io">Dr. Igor Colin</a>. I hold a Ph.D. from the <a href="https://team.inria.fr/parietal/">Parietal team</a> at the Commissariat à l'Énergie Atomique (CEA), completed under the supervision of <a href="https://sites.google.com/site/philippeciuciu">Dr. Philippe Ciuciu</a>, <a href="https://www.researchgate.net/profile/Claire_Leroy">Dr. Claire Leroy</a>, and <a href="https://tommoral.github.io">Dr. Thomas Moreau</a>.
 
-Take a look at my <a href="{{ 'example_pdf.pdf' | prepend: '/assets/pdf/' | relative_url }}" target="_blank">Curriculum Vitae</a> and my <a href="https://scholar.google.com/citations?user=sLFcrAUAAAAJ">publications</a> for more details!
+Take a look at my <a href="{{ 'cv.pdf' | prepend: '/assets/pdf/' | relative_url }}" target="_blank">Curriculum Vitae</a> and my <a href="https://scholar.google.com/citations?user=sLFcrAUAAAAJ">publications</a> for more details!
