@@ -1,47 +1,32 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Most of my code contributions, including libraries and paper submission code, can be found on GitHub.
+title: software
+description: Selected research software and reproducibility code.
 nav: true
 nav_order: 4
 ---
 
-{% if site.data.repositories.github_users %}
+## [optimal_bootstrap](https://github.com/hcherkaoui/optimal_bootstrap)
 
-## GitHub users
+Code for high-dimensional analysis of bootstrap ensemble classifiers. This project accompanies the AISTATS work on bootstrap methods for LSSVM ensembles, random matrix theory, and practical rules for selecting ensemble hyperparameters.
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
+**Artifacts:** [code](https://github.com/hcherkaoui/optimal_bootstrap), [paper](https://openreview.net/forum?id=HRNBXXmTwh)
 
----
+**Keywords:** bootstrap ensembles, random matrix theory, high-dimensional statistics
 
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
+## [HemoLearn](https://github.com/hemolearn/hemolearn)
 
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
+Python package for estimating the haemodynamic response function from resting-state or task fMRI BOLD signals using blind deconvolution.
 
----
+**Artifacts:** [code](https://github.com/hemolearn/hemolearn)
 
-{% endfor %}
-{% endif %}
-{% endif %}
+**Keywords:** fMRI, haemodynamic response function, blind deconvolution, inverse problems
 
-{% if site.data.repositories.github_repos %}
+## [Carpet](https://github.com/hcherkaoui/carpet)
 
-## GitHub Repositories
+Research code for solving 1D total-variation regularized optimization problems, including classical solvers and learnable unrolled optimization algorithms.
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
+**Artifacts:** [code](https://github.com/hcherkaoui/carpet), [paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/84fec9a8e45846340fdf5c7c9f7ed66c-Paper.pdf)
+
+**Keywords:** unrolled optimization, total variation, inverse problems, sparse regularization

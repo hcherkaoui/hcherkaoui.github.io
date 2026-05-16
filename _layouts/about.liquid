@@ -40,6 +40,14 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Papers -->
+    {% if page.papers and page.papers.enabled %}
+      <h2>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected papers</a>
+      </h2>
+      {% include papers.liquid limit=true %}
+    {% endif %}
+
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>

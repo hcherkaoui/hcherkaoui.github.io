@@ -536,6 +536,38 @@ footer.sticky-bottom {
   transform: translateX(-15px) translateY(-5px);
 }
 
+// Papers
+
+.papers {
+  .paper-title {
+    color: var(--global-text-color);
+    font-weight: 500;
+  }
+
+  .paper-links {
+    white-space: nowrap;
+
+    a {
+      color: var(--global-theme-color);
+      font-size: 0.8rem;
+      margin-left: 0.35rem;
+      text-transform: uppercase;
+
+      &::before {
+        content: "[";
+      }
+
+      &::after {
+        content: "]";
+      }
+
+      &:hover {
+        text-decoration: none;
+      }
+    }
+  }
+}
+
 // Repositories
 
 @media (min-width: 768px) {
