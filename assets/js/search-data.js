@@ -42,6 +42,9 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-be-in-vancouver-to-present-our-work-adaptive-sample-sharing-for-multi-agent-linear-bandits-at-icml-️",
           title: 'Excited to be in Vancouver to present our work: Adaptive Sample Sharing for...',
           description: "",
+          section: "News",},{id: "news-in-this-work-we-analyze-bootstrap-ensembles-in-high-dimensions-using-random-matrix-theory-the-goal-is-to-better-understand-their-behavior-and-derive-concrete-rules-for-setting-the-ensemble-hyperparameters",
+          title: 'In this work, we analyze bootstrap ensembles in high dimensions using random matrix...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
