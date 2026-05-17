@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm happy to join <a href="https://sites.google.com/view/helene-halconruy-math/home">Prof. Hélène Halconruy</a> at Télécom SudParis!
+I joined Télécom SudParis as a postdoctoral researcher with <a href="https://sites.google.com/view/helene-halconruy-math/home">Prof. Hélène Halconruy</a>.

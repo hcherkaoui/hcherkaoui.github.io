@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Happy that our work was presented <a href="https://openreview.net/forum?id=HRNBXXmTwh">High-Dimensional Analysis of Bootstrap Ensemble Classifiers</a> at AISTATS!
+Our work <a href="https://arxiv.org/abs/2505.14587">High-Dimensional Analysis of Bootstrap Ensemble Classifiers</a> was presented as a poster at AISTATS 2026 in Tangier.

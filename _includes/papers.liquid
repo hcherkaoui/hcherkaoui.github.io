@@ -35,6 +35,9 @@
                   <a href="{{ paper.code_url }}" target="_blank" rel="noopener noreferrer">code</a>
                 {% endif %}
               </span>
+              {% if paper.contribution %}
+                <div class="paper-contribution">{{ paper.contribution }}</div>
+              {% endif %}
             </td>
           </tr>
         {% endfor %}

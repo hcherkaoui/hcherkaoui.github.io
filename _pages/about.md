@@ -26,16 +26,16 @@ papers:
   limit: 5 # leave blank to include all entries in `_data/paper_submissions.yml`
 ---
 
-I am a postdoctoral researcher at <a href="https://www.telecom-sudparis.eu/">Télécom SudParis</a>, where I work with <a href="https://sites.google.com/view/helene-halconruy-math/home">Prof. Hélène Halconruy</a> on generative modeling, conditional flow matching, diffusion models, and transfer learning.
+I develop theoretically grounded diffusion and flow-matching methods for reliable generative modeling under long-tailed data distributions, with an emphasis on rare-mode coverage, transfer, and reproducible large-scale evaluation.
 
-My current work focuses on diffusion and flow-matching methods for reliable, diverse, and transferable generative modeling, with a particular interest in long-tail distributions and underrepresented modes.
+I am a postdoctoral researcher at <a href="https://www.telecom-sudparis.eu/">Télécom SudParis</a>, where I work with <a href="https://sites.google.com/view/helene-halconruy-math/home">Prof. Hélène Halconruy</a>. My work combines mathematical analysis with reproducible PyTorch/SLURM research pipelines and empirical benchmarks.
 
 Previously, I worked at Noah’s Ark Lab, Huawei Technologies in Paris, with <a href="https://igorcolin.github.io">Dr. Igor Colin</a>. I completed my Ph.D. in the <a href="https://team.inria.fr/parietal/">Parietal team</a> at CEA, advised by <a href="https://sites.google.com/site/philippeciuciu">Dr. Philippe Ciuciu</a>, <a href="https://www.researchgate.net/profile/Claire_Leroy">Dr. Claire Leroy</a>, and <a href="https://tommoral.github.io">Dr. Thomas Moreau</a>.
 
-See my <a href="{{ 'cv.pdf' | prepend: '/assets/pdf/' | relative_url }}" target="_blank">CV</a> and <a href="https://scholar.google.com/citations?user=sLFcrAUAAAAJ">publications</a> for more details.
+For more details, see my <a href="{{ 'cv.pdf' | prepend: '/assets/pdf/' | relative_url }}" target="_blank">CV</a>, <a href="https://scholar.google.com/citations?user=sLFcrAUAAAAJ">Google Scholar</a>, and <a href="https://github.com/hcherkaoui">GitHub</a>.
 
 ## research themes
 
-- **Generative modeling and flow matching.** Reliable and diverse generation beyond average-case behavior.
-- **Long-tail distributions and rare modes.** Understanding when models miss underrepresented structure, and how to improve coverage.
-- **Transfer learning.** Selecting useful sources and avoiding negative transfer in statistical learning problems.
+- **Generative modeling and flow matching.** Reliable and diverse generation.
+- **Long-tail distributions and rare modes.** Understanding and improving coverage of underrepresented structure.
+- **Transfer learning.** Avoiding negative transfer learning and identifying useful data sources.

@@ -7,13 +7,37 @@ nav: true
 nav_order: 4
 ---
 
+## FlowBench
+
+PyTorch benchmark for reproducible evaluation of diffusion and flow-matching models under Gaussian and heavy-tailed generative settings.
+
+**Artifacts:** benchmark description available on request
+
+**Keywords:** diffusion models, flow matching, heavy-tailed distributions, reproducible benchmarks
+
+## Metis
+
+AutoML toolbox for model selection, ensembling, and predictive-performance optimization.
+
+**Artifacts:** description available on request
+
+**Keywords:** AutoML, model selection, ensembling, predictive optimization
+
 ## [optimal_bootstrap](https://github.com/hcherkaoui/optimal_bootstrap)
 
 Code for high-dimensional analysis of bootstrap ensemble classifiers. This project accompanies the AISTATS work on bootstrap methods for LSSVM ensembles, random matrix theory, and practical rules for selecting ensemble hyperparameters.
 
-**Artifacts:** [code](https://github.com/hcherkaoui/optimal_bootstrap), [paper](https://openreview.net/forum?id=HRNBXXmTwh)
+**Artifacts:** [code](https://github.com/hcherkaoui/optimal_bootstrap), [paper](https://arxiv.org/abs/2505.14587)
 
 **Keywords:** bootstrap ensembles, random matrix theory, high-dimensional statistics
+
+## [Bandpy](https://github.com/hcherkaoui/bandpy)
+
+Gym-compatible Python package for benchmarking single- and multi-agent bandit algorithms across synthetic and real-data environments.
+
+**Artifacts:** [code](https://github.com/hcherkaoui/bandpy)
+
+**Keywords:** multi-agent bandits, benchmarking, Gym environments, reproducible experiments
 
 ## [HemoLearn](https://github.com/hemolearn/hemolearn)
 

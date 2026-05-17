@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm happy to join Noah’s Ark Paris Huawei Technologies! I will be working with Dr Igor Colin and Dr Merwan Barlier.
+I joined Noah’s Ark Lab, Huawei Technologies Paris, to work with Dr. Igor Colin and Dr. Merwan Barlier.

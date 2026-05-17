@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our ICML 2025 paper was accepted: <a href="https://arxiv.org/abs/2309.08710"> Adaptive Sample Sharing for Multi Agent Linear Bandits </a>!
+Our paper <a href="https://arxiv.org/abs/2309.08710">Adaptive Sample Sharing for Multi Agent Linear Bandits</a> was accepted at ICML 2025.
