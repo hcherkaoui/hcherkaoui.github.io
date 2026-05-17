@@ -39,10 +39,10 @@ ninja.data = [{
           section: "News",},{id: "news-i-joined-télécom-sudparis-as-a-postdoctoral-researcher-with-prof-hélène-halconruy",
           title: 'I joined Télécom SudParis as a postdoctoral researcher with Prof. Hélène Halconruy.',
           description: "",
-          section: "News",},{id: "news-i-presented-adaptive-sample-sharing-for-multi-agent-linear-bandits-at-icml-2025-in-vancouver",
-          title: 'I presented Adaptive Sample Sharing for Multi Agent Linear Bandits at ICML 2025...',
+          section: "News",},{id: "news-i-presented-our-work-adaptive-sample-sharing-for-multi-agent-linear-bandits-as-a-poster-at-icml-2025-in-vancouver",
+          title: 'I presented our work Adaptive Sample Sharing for Multi Agent Linear Bandits as...',
           description: "",
-          section: "News",},{id: "news-our-work-high-dimensional-analysis-of-bootstrap-ensemble-classifiers-was-presented-as-a-poster-at-aistats-2026",
+          section: "News",},{id: "news-our-work-high-dimensional-analysis-of-bootstrap-ensemble-classifiers-was-presented-as-a-poster-at-aistats-2026-in-tangier",
           title: 'Our work High-Dimensional Analysis of Bootstrap Ensemble Classifiers was presented as a poster...',
           description: "",
           section: "News",},{
