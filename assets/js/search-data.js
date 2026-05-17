@@ -30,20 +30,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-i-m-happy-to-join-noah-s-ark-paris-huawei-technologies-i-will-be-working-with-dr-igor-colin-and-dr-merwan-barlier",
-          title: 'I’m happy to join Noah’s Ark Paris Huawei Technologies! I will be working...',
+        },{id: "news-i-joined-noah-s-ark-lab-huawei-technologies-paris-to-work-with-dr-igor-colin-and-dr-merwan-barlier",
+          title: 'I joined Noah’s Ark Lab, Huawei Technologies Paris, to work with Dr. Igor...',
           description: "",
-          section: "News",},{id: "news-our-icml-2025-paper-was-accepted-adaptive-sample-sharing-for-multi-agent-linear-bandits",
-          title: 'Our ICML 2025 paper was accepted: Adaptive Sample Sharing for Multi Agent Linear...',
+          section: "News",},{id: "news-our-paper-adaptive-sample-sharing-for-multi-agent-linear-bandits-was-accepted-at-icml-2025",
+          title: 'Our paper Adaptive Sample Sharing for Multi Agent Linear Bandits was accepted at...',
           description: "",
-          section: "News",},{id: "news-i-m-happy-to-join-prof-hélène-halconruy-at-télécom-sudparis",
-          title: 'I’m happy to join Prof. Hélène Halconruy at Télécom SudParis!',
+          section: "News",},{id: "news-i-joined-télécom-sudparis-as-a-postdoctoral-researcher-with-prof-hélène-halconruy",
+          title: 'I joined Télécom SudParis as a postdoctoral researcher with Prof. Hélène Halconruy.',
           description: "",
-          section: "News",},{id: "news-excited-to-be-in-vancouver-to-present-our-work-adaptive-sample-sharing-for-multi-agent-linear-bandits-at-icml-️",
-          title: 'Excited to be in Vancouver to present our work: Adaptive Sample Sharing for...',
+          section: "News",},{id: "news-i-presented-adaptive-sample-sharing-for-multi-agent-linear-bandits-at-icml-2025-in-vancouver",
+          title: 'I presented Adaptive Sample Sharing for Multi Agent Linear Bandits at ICML 2025...',
           description: "",
-          section: "News",},{id: "news-happy-that-our-work-was-presented-high-dimensional-analysis-of-bootstrap-ensemble-classifiers-at-aistats",
-          title: 'Happy that our work was presented High-Dimensional Analysis of Bootstrap Ensemble Classifiers at...',
+          section: "News",},{id: "news-our-work-high-dimensional-analysis-of-bootstrap-ensemble-classifiers-was-presented-as-a-poster-at-aistats-2026",
+          title: 'Our work High-Dimensional Analysis of Bootstrap Ensemble Classifiers was presented as a poster...',
           description: "",
           section: "News",},{
         id: 'social-bluesky',
@@ -58,6 +58,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://dblp.org/pid/243/6498", "_blank");
+        },
+      },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%68%61%6D%7A%61.%63%68%65%72%6B%61%6F@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
