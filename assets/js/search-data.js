@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Most of my code contributions, including libraries and paper submission code, can be found on GitHub.",
+        },{id: "nav-software",
+          title: "software",
+          description: "Selected research software and reproducibility code.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
