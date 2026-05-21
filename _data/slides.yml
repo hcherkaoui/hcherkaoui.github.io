@@ -1,0 +1,12 @@
+- title: Flow Matching
+  summary: Introduction to flow matching as a continuous-time generative modeling framework, covering transport, conditional objectives, and training/sampling algorithms.
+  file: flow_matching.pdf
+- title: Diffusion
+  summary: Overview of diffusion models from forward noising processes to reverse-time dynamics, score matching, and sampling algorithms.
+  file: diffusion.pdf
+- title: Transformer
+  summary: Primer on transformer origins, architecture, self-attention, scaling behavior, and variants used in modern generative modeling.
+  file: transformer.pdf
+- title: Git
+  summary: Practical introduction to Git fundamentals, VS Code workflows, and collaborative development with GitHub.
+  file: git.pdf
