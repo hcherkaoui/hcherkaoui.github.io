@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-slides",
+          title: "slides",
+          description: "Selected lecture and presentation slides.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/slides/";
+          },
         },{id: "news-i-joined-noah-s-ark-lab-huawei-technologies-paris-to-work-with-dr-igor-colin-and-dr-merwan-barlier",
           title: 'I joined Noah’s Ark Lab, Huawei Technologies Paris, to work with Dr. Igor...',
           description: "",
