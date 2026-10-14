@@ -7,13 +7,13 @@ nav: true
 nav_order: 4
 ---
 
-## FlowBench
+## [Diffusion Research Lab](https://github.com/orgs/Diffusion-Research-Lab/repositories)
 
-PyTorch benchmark for reproducible evaluation of diffusion and flow-matching models under Gaussian and heavy-tailed generative settings.
+PyTorch tools for diffusion and flow matching, covering generative modeling, guidance, datasets, and reproducible large-scale benchmarking.
 
-**Artifacts:** benchmark description available on request
+**Artifacts:** [GitHub repositories](https://github.com/orgs/Diffusion-Research-Lab/repositories)
 
-**Keywords:** diffusion models, flow matching, heavy-tailed distributions, reproducible benchmarks
+**Keywords:** diffusion models, flow matching, generative modeling, guidance, benchmarking, reproducibility
 
 ## Metis
 
@@ -35,7 +35,7 @@ Code for high-dimensional analysis of bootstrap ensemble classifiers. This proje
 
 Gym-compatible Python package for benchmarking single- and multi-agent bandit algorithms across synthetic and real-data environments.
 
-**Artifacts:** [code](https://github.com/hcherkaoui/bandpy)
+**Artifacts:** [code](https://github.com/hcherkaoui/bandpy), [paper](https://proceedings.mlr.press/v267/cherkaoui25a.html)
 
 **Keywords:** multi-agent bandits, benchmarking, Gym environments, reproducible experiments
 
@@ -43,7 +43,7 @@ Gym-compatible Python package for benchmarking single- and multi-agent bandit al
 
 Python package for estimating the haemodynamic response function from resting-state or task fMRI BOLD signals using blind deconvolution.
 
-**Artifacts:** [code](https://github.com/hemolearn/hemolearn)
+**Artifacts:** [code](https://github.com/hemolearn/hemolearn), [paper](https://www.sciencedirect.com/science/article/pii/S1053811921006935)
 
 **Keywords:** fMRI, haemodynamic response function, blind deconvolution, inverse problems
 

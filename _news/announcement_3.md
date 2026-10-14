@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-02-14 00:00:00-0000
+date: 2025-06-15 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-I joined Noah’s Ark Lab, Huawei Technologies Paris, to work with Dr. Igor Colin and Dr. Merwan Barlier.
+I joined Télécom SudParis as a postdoctoral researcher with <a href="https://sites.google.com/view/helene-halconruy-math/home">Prof. Hélène Halconruy</a>.
