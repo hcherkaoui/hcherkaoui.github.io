@@ -52,6 +52,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-high-dimensional-analysis-of-bootstrap-ensemble-classifiers-was-presented-as-a-poster-at-aistats-2026-in-tangier",
           title: 'Our work High-Dimensional Analysis of Bootstrap Ensemble Classifiers was presented as a poster...',
           description: "",
+          section: "News",},{id: "news-our-paper-do-heavy-tails-help-diffusion-on-the-subtle-trade-off-between-initialization-and-training-was-accepted-as-a-poster-in-the-neurips-2026",
+          title: 'Our paper Do Heavy Tails Help Diffusion? On the Subtle Trade-off Between Initialization...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
